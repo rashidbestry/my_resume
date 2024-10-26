@@ -138,23 +138,20 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: erelibilgisayar.com
+      - title: Erelibilgisayar
         link: https://erelibilgisayar.com/
         tagline: Develop a website and manage a server for online product sales.
 
       - title: Stock management
-        link: "#"
+        link: https://www.benimpos.com/
         tagline: Creating a stock management system in the BenimPOS application.
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills & amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python 
         level: 90%
-
-      - name: Javascript & jQuery
-        level: 80%
 
       - name: Networking
         level: 95%
@@ -165,7 +162,7 @@ skills:
       - name: Hardware Knowledge
         level: 95%
 
-      - name: Media & Photoshop
+      - name: Linux / Unix systems
         level: 70%
 
 footer: >
