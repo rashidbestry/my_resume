@@ -117,18 +117,18 @@ certifications:
           credentialurl: www.cisco.com
           credentialname: Cisco
           details: |
-            CCNA (Cisco Certified Network Associate) is a certification from Cisco, the world’s most famous company for manufacturing and selling networking equipment. This certification helps you to become familiar with a wide range of topics, such as:
-
-LAN/WAN
-TCP/IP model
-Switches and routers
-Network utilities (ping, tracert, arp)
-IP addressing and subnetting
-VLANs and trunking
-Routing protocols such as OSPF
-WLAN
-NAT and ACLs
-Automation and programmability.
+            Details about cert. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
+            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+            fringilla vel. Ut euismod, sem sed vulputate venenatis,
+            justo diam viverra velit, sed rhoncus leo leo eu justo.
+            Suspendisse placerat risus ante, sed porta nisi blandit at.
        
 projects:
     title: Projects
