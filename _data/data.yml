@@ -3,28 +3,28 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
+    position: left # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Rashid Yuldashov
+    tagline: DevOps Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    email: rashid.best.ry@gmail.com
+    phone: 0501 260 15 35
+    timezone: Europe/Istanbul # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
     website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
+    linkedin: rashid-yuldashov
     xing: alandoe
-    github: jekyll
+    github: helloeveryone
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@jekyllrb'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -37,24 +37,27 @@ sidebar:
       title: Languages
       info:
         - idiom: English
+          level: Professional
+
+        - idiom: Russian
+          level: Professional
+
+        - idiom: Turkish
+          level: Professional
+
+        - idiom: Uzbek
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: Turkmen
+          level: Native
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Tennis
           link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
+        - item: Traveling
           link:
 
 career-profile:
