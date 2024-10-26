@@ -223,22 +223,22 @@ skills:
 
     toolset:
       - name: Python & Django
-        level: 98%
+        level: 90%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 80%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Networking
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: HTML5 & CSS
+        level: 70%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Hardware Knowledge
+        level: 95%
+
+      - name: Media & Photoshop
+        level: 70%
 
 footer: >
     <i class="fas fa-heart"></i> Designed by Rashid Yuldashov
