@@ -76,20 +76,13 @@ education:
         university: Inonu University
         time: 2024 - 2028
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      
+          Describe 
+          
 experiences:
     title: Experiences
     info:
       
-      
-      - role: Photographer | Graphic Designer
+    - role: Photographer | Graphic Designer
         time: 2015 - 2017
         company: INCOM-Photo, Dashoguz/Turkmenistan
         details: |
@@ -119,7 +112,8 @@ experiences:
         time: 2023 - 2024
         company: Erelibilgisayar, Izmir/Turkey
         details: |
-          Administration.
+          Developing a website and monitoring, selling and configuring 
+          Pc / Laptop / Network devices / remote support / ......  
          
 certifications:
       title: Certifications
@@ -149,9 +143,9 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#      You can list your side projects in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Erelibilgisayar
         link: https://erelibilgisayar.com/
