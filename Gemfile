@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source 
 
 # gem "rails"
 gem "jekyll"
