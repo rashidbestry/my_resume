@@ -108,7 +108,7 @@ experiences:
           Installation and management network devices, 
           configuring acces-points, cabling, CCTV
       
-      - role: #IT Specialist
+    - role: #IT Specialist
         time: 2023 - 2024
         company: Erelibilgisayar, Izmir/Turkey
         details: |
