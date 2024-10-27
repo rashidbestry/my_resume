@@ -87,25 +87,40 @@ education:
 experiences:
     title: Experiences
     info:
+      
+      
+      - role: Photographer | Graphic Designer
+        time: 2015 - 2017
+        company: INCOM-Photo, Dashoguz/Turkmenistan
+        details: |
+          Professional photo montage in Adobe Photoshop 
+    
+    - role: Social Media Content 
+        time: 2017 - 2018
+        company: INCOM-Media, Dashoguz/Turkmenistan
+        details: |
+          Various projects in Adobe Premiere for Youtube channel
+
+    - role: PC / Laptop Repairing   
+        time: 2017 - 2020
+        company: INCOM-Service, Dashoguz/Turkmenistan
+        details: |
+          OS installation, hardware solutions, backup data,
+          diagnosing and repairing, 
+           
+    - role: Network / Wireless devices managing   
+        time: 2021 - 2023
+        company: INCOM-Service, Dashoguz/Turkmenistan
+        details: |
+          Installation and management network devices, 
+          configuring acces-points, cabling, CCTV
+      
       - role: IT Specialist
         time: 2023 - 2024
         company: Erelibilgisayar, Izmir/Turkey
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Administration.
          
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
 certifications:
       title: Certifications
       list:
@@ -151,19 +166,19 @@ skills:
 
     toolset:
       - name: Python 
-        level: 90%
+        level: 30%
 
       - name: Networking
-        level: 95%
+        level: 75%
 
       - name: HTML5 & CSS
-        level: 70%
+        level: 40%
 
       - name: Hardware Knowledge
-        level: 95%
+        level: 85%
 
       - name: Linux / Unix systems
-        level: 70%
+        level: 50%
 
 footer: >
     <i class="fas fa-heart"></i> Designed by Rashid Yuldashov
