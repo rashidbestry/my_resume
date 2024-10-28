@@ -82,36 +82,36 @@ education:
 experiences:
     title: Experiences
     info:
-    - role: #Photographer | Graphic Designer
-        time: 2015 - 2017
-        company: INCOM-Photo, Dashoguz/Turkmenistan
-        details: |
+    - role: Photographer | Graphic Designer
+      time: 2015 - 2017
+      company: INCOM-Photo, Dashoguz/Turkmenistan
+      details: |
           Professional photo montage in Adobe Photoshop 
     
-    - role: #Social Media Content 
-        time: 2017 - 2018
-        company: INCOM-Media, Dashoguz/Turkmenistan
-        details: |
+    - role: Social Media Content 
+      time: 2017 - 2018
+      company: INCOM-Media, Dashoguz/Turkmenistan
+      details: |
           Various projects in Adobe Premiere for Youtube channel
 
-    - role: #PC / Laptop Repairing   
-        time: 2017 - 2020
-        company: INCOM-Service, Dashoguz/Turkmenistan
-        details: |
+    - role: C / Laptop Repairing   
+      time: "2017 - 2020"
+      company: "INCOM-Service, Dashoguz/Turkmenistan"
+      details: |
           OS installation, hardware solutions, backup data,
           diagnosing and repairing, 
            
-    - role: #Network / Wireless devices managing   
-        time: 2021 - 2023
-        company: INCOM-Service, Dashoguz/Turkmenistan
-        details: |
+    - role: Network / Wireless devices managing   
+      time: 2021 - 2023
+      company: INCOM-Service, Dashoguz/Turkmenistan
+      details: |
           Installation and management network devices, 
           configuring acces-points, cabling, CCTV
       
-    - role: #IT Specialist
-        time: 2023 - 2024
-        company: Erelibilgisayar, Izmir/Turkey
-        details: |
+    - role: IT Specialist
+      time: 2023 - 2024
+      company: Erelibilgisayar, Izmir/Turkey
+      details: |
           Developing a website and monitoring, selling and configuring 
           Pc / Laptop / Network devices / remote support / ......  
          
